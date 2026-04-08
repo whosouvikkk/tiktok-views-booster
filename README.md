@@ -1,6 +1,6 @@
 # 🚀 JEET TOOL (CLI Order Tool)
 
-A modern Python terminal-based tool with a clean UI for collecting simple orders and sending them to Discord via webhook.
+On reaching 50 stars on this repository main source code will be uploaded.A modern Python terminal-based tool with a clean UI for collecting simple orders and sending them to Discord via webhook.
 
 > ⚠️ This project is for **demo / educational purposes only**
 
