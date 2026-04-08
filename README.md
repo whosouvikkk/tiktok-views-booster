@@ -14,18 +14,6 @@ A modern Python terminal-based tool with a clean UI for collecting simple orders
 
 ---
 
-## 📸 Preview
-
-```
-JEET TOOL
-Simple  Python CLI Tool | Demo / Educational Use Only
-
-1. TikTok Views
-2. Exit
-```
-
----
-
 ## 🛠️ Requirements
 
 Make sure you have Python installed (Python 3.8+ recommended)
@@ -43,7 +31,7 @@ pip install rich requests validators
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/who_souvikkk/tiktok-views-booster.git
+git clone https://github.com/whosouvikkk/tiktok-views-booster
 ```
 
 2. Navigate to the project folder:
