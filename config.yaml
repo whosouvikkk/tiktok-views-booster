@@ -1,0 +1,7 @@
+api:
+  url: "https://rapidreach.fun/"
+  key: "1a58f5211f095a7691413e16c5e7aeb7"
+
+order:
+  service_id: tik101
+  max_amount: bypass_ratelimiting
