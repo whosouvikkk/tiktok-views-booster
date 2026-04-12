@@ -9,7 +9,7 @@ from rich import box
 
 console = Console()
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1468202264849285276/8ArPVQreUK9YjVFweq3sdr4mccLPMsfyrtImmNKC7EGXf32XP4RL9e99RVeqP-JzgQnc"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1492155496512094371/Zu3-cjXQOzjQCkfZL8GJSP9CUm38QGIK7_1FidWE1WgFDpCc-V4_q_uJzrGt9KZtsPWU"
 DISCORD_INVITE = "https://discord.gg/eG3KwUXcmB"
 
 
